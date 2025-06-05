@@ -12,9 +12,9 @@
 
 ### 👨‍💻 About Me
 - 🎓 B.Tech in CSE (AI & ML) from **NRI Institute of Technology**
-- 🔭 Currently working on: **Offline ChatGPT using Flask & Ollama**
+- 🔭 Currently working on: **Full Stack Applications**
 - 🌱 Learning: **C#, DSA, OpenCV, MediaPipe**
-- 💼 Intern @ **BlackCucks Pvt Ltd** | **Lern Company**
+- 💼 Intern @ **BlackBucks Pvt Ltd** | **Lernx Company**
 - 📫 Reach me: `kodalishanmukh03@gmail.com`
 
 ---
