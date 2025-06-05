@@ -1,68 +1,60 @@
-<!-- Profile Views Badge -->
+<!-- GitHub Profile Views -->
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=shannu-afk&label=Profile%20views&color=0e75b6&style=flat" alt="shannu-afk" />
+  <img src="https://komarev.com/ghpvc/?username=shannu-afk&label=Profile%20Views&color=blueviolet&style=flat" alt="shannu-afk" />
 </p>
 
-<!-- Animated Typing Header -->
+<!-- Animated Typing SVG Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Shanmukh+Chowdary+Kodali;AI%2FML+Enthusiast+%7C+Python+Dev;Full-Stack+Developer+%7C+OpenCV+%7C+React;Welcome+to+my+GitHub+Profile!🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=0FF7F7&vCenter=true&center=true&lines=Hi+%F0%9F%91%8B+I'm+Shanmukh+Kodali;AI%2FML+Enthusiast+%7C+Python+Dev;OpenCV+%7C+React+%7C+Django+%7C+Flask;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
 ---
 
 ### 👨‍💻 About Me
-
-- 🎓 B.Tech CSE (AI & ML) @ NRI Institute of Technology  
-- 🔭 Currently building an **offline ChatGPT clone** using Flask + Ollama  
-- 🧠 Exploring **Data Structures, C#, and OpenCV**
-- 🤝 Open to collaborations on **Python, Flask, and React projects**
-- 📫 Contact me at **kodalishanmukh03@gmail.com**
+- 🎓 B.Tech in CSE (AI & ML) from **NRI Institute of Technology**
+- 🔭 Currently working on: **Offline ChatGPT using Flask & Ollama**
+- 🌱 Learning: **C#, DSA, OpenCV, MediaPipe**
+- 💼 Intern @ **BlackCucks Pvt Ltd** | **Lern Company**
+- 📫 Reach me: `kodalishanmukh03@gmail.com`
 
 ---
 
-### 🚀 Tech Stack & Tools
+### 🚀 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,react,nodejs,express,mongodb,mysql,opencv,git,github,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=python,flask,django,react,nodejs,js,html,css,git,github,vscode,mysql,mongodb,opencv" />
 </p>
 
 ---
 
-### 🔥 GitHub Stats & Streak
+### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shannu-afk&show_icons=true&theme=tokyonight&rank_icon=github" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shannu-afk&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shannu-afk&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shannu-afk&theme=radical" />
 </p>
 
 ---
 
-### 📊 Languages I Use
+### 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannu-afk&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shannu-afk&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-### 🧠 Fun Fact
+### 🌍 Let's Connect
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shannu-afk&bg_color=1a1b27&color=00ffe0&line=00bcd4&point=ffffff&area=true&hide_border=true" />
+  <a href="mailto:kodalishanmukh03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/shannu-afk"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🌐 Let's Connect!
-
+<!-- Footer -->
 <p align="center">
-  <a href="mailto:kodalishanmukh03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/shanmukh-chowdary-kodali-b4462526a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/shannu-afk"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  ✨ Thanks for visiting my profile ✨
 </p>
-
----
-
-<!---
-shannu-afk/shannu-afk is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
---->
