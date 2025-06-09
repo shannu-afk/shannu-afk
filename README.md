@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 - 🎓 B.Tech in CSE (AI & ML) from **NRI Institute of Technology**
 - 🔭 Currently working on: **Full Stack Applications**
-- 🌱 Learning: **C#, DSA, OpenCV, MediaPipe**
+- 🌱 Learning: **AI,ML, DSA, OpenCV, MediaPipe**
 - 💼 Intern @ **BlackBucks Pvt Ltd** | **Lernx Company**
 - 📫 Reach me: `kodalishanmukh03@gmail.com`
 
