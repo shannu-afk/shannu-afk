@@ -3,81 +3,72 @@
   <img src="https://komarev.com/ghpvc/?username=shannu-afk&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
-<!-- Animated Typing SVG Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=0FF7F7&vCenter=true&center=true&lines=Hi+%F0%9F%91%8B+I'm+K.+Shanmukh;AI%2FML+Enthusiast+%7C+Full+Stack+Dev;OpenCV+%7C+React+%7C+Django;Building+Intelligent+Web+Apps!" alt="Typing SVG" />
-</h1>
-
+<!-- Name Header -->
+<h1 align="center">Hi 👋, I'm K. Shanmukh</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shannu-afk/shannu-afk/main/assets/developer.gif" width="300" alt="Developer Animation" />
+  <em>AI/ML Enthusiast • Full Stack Developer • Problem Solver</em>
 </p>
 
 ---
 
-### 👨‍💻 **About Me**
+### 🧠 About Me
 
-- 🎓 B.Tech in **CSE (AI & ML)** from **NRI Institute of Technology**
-- 🔭 Currently building **Full-Stack AI-powered Web Apps**
-- 🌱 Deepening my knowledge in **Computer Vision (OpenCV, MediaPipe)**, **ML Pipelines**, and **DSA**
-- 💼 Intern @ **BlackBucks Pvt Ltd** | **Lernx Company**
-- 📩 Let’s connect: **kodalishanmukh03@gmail.com**
+- 🎓 B.Tech in **CSE (AI & ML)** from **NRI Institute of Technology**  
+- 🔭 Building **Full Stack Applications** with AI integration  
+- 🌱 Deepening skills in **Computer Vision (OpenCV, MediaPipe)**, **ML**, and **DSA**  
+- 💼 Intern @ **BlackBucks Pvt Ltd** | **Lernx Company**  
+- 📩 Reach me: **kodalishanmukh03@gmail.com**
 
 ---
 
-### 🚀 **Tech Stack & Tools**
+### ⚙️ Tech Stack
+
+#### 🐍 Backend & AI/ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logoColor=white)
+
+#### 💻 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🛢️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,react,nodejs,js,ts,html,css,git,github,vscode,mysql,mongodb,opencv,firebase" alt="Tech Stack" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shannu-afk&show_icons=true&theme=radical&border_radius=10&bg_color=00000000" alt="GitHub Stats" />
 </p>
 
 ---
 
-### 📊 **GitHub Analytics**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shannu-afk&show_icons=true&theme=radical&border_radius=10" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shannu-afk&theme=radical&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shannu-afk&layout=compact&theme=radical&border_radius=10" />
-</div>
-
----
-
-### 🔥 **Contribution Heatmap**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shannu-afk&theme=react-dark&hide_border=false&area=true&custom_title=My%20GitHub%20Activity%20Graph" alt="Activity Graph" />
-</p>
-
----
-
-### 🌐 **Let’s Connect!**
+### 🌐 Let’s Connect
 
 <p align="center">
   <a href="mailto:kodalishanmukh03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/shannu-afk">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/shanmukh-chowdary-kodali-b4462526a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 💡 **Visitor Badge**
-
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shannu-afk.visitor-badge" alt="Visitor Count" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
-</p>
-
-<p align="center">
-  ✨ Built with ❤️ | Always learning, always building ✨
+  ✨ Thanks for stopping by — always open to collaboration! ✨
 </p>
